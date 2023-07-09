@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react"; 
 import { Link } from "react-router-dom";
-export function Card({ 
+export function ContinentCard({ 
 name,
 image
 }) { 
