@@ -11,8 +11,8 @@ export function ContinentPage() {
 
      const continentData = () => { 
        const individualContinentData = data.continents.filter((continent)=>continent.name===name)
-       console.log({individualContinentData})
-    setCountries(individualContinentData.countries)
+       console.log(individualContinentData)
+    setCountries(individualContinentData)
      }
 
      continentData(); 
