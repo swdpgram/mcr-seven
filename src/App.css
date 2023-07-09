@@ -69,3 +69,20 @@ i.material-symbols-outlined {
     margin-left: 20px;
     color: white;
   }
+
+  .continent-page { 
+    margin-top: 2rem;
+    margin-left: 20px;
+  }
+
+  .continentpage-container{ 
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .link-to-home { 
+    text-align: center;
+  }
+
+  
